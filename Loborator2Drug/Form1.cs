@@ -52,8 +52,8 @@ namespace Loborator2Drug
             else { 
             zedGraphControl1.AxisChange();
             zedGraphControl1.Invalidate();
-            list.Clear();
             list2.Clear();
+            list.Clear();
             minList.Clear();
             pane.CurveList.Clear();
             pane.GraphObjList.Clear();
